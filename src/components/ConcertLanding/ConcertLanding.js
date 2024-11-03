@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Search, Volume2 } from 'lucide-react';
+import { Search } from 'lucide-react';
 import EventCard from '../EventCard/EventCard';
 import styles from '../../styles/ConcertLanding.module.css';
 
